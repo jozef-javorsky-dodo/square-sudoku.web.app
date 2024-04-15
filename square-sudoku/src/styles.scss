@@ -1,0 +1,35 @@
+@use "@angular/material" as mat;
+
+@include mat.core();
+
+$square-sudoku-primary: mat.define-palette(mat.$purple-palette);
+
+$square-sudoku-accent: mat.define-palette(mat.$light-green-palette, A200, A100, A400);
+
+$square-sudoku-warn: mat.define-palette(mat.$pink-palette);
+
+$square-sudoku-theme: mat.define-light-theme((color: (primary: $square-sudoku-primary,
+        accent: $square-sudoku-accent,
+        warn: $square-sudoku-warn,
+      ),
+      typography: mat.define-typography-config(),
+      density: 0));
+
+@include mat.all-component-themes($square-sudoku-theme);
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  background-color: rgba(122, 122, 122, 0.5);
+  background-repeat: no-repeat !important;
+  background-attachment: fixed !important;
+  background-size: cover !important;
+  overflow-y: hidden !important;
+  overflow-x: hidden !important;
+  user-select: none !important;
+}
