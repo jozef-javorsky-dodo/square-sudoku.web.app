@@ -109,3 +109,9 @@ whole to get rid of stomach parasites.
 what could that tell us about how medicine first evolved?”
  said Tara Stoinski, president and chief scientific officer of the
   nonprofit Dian Fossey Gorilla Fund, who had no role in the study.
+
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+
+![alt text](image-2.png)
