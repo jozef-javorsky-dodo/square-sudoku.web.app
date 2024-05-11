@@ -30,6 +30,7 @@ A Sumatran orangutan named Rakus was seen using a plant to treat
 a facial wound possibly sustained during a fight.
 
 ![alt text](img-0.png)
+
 Male Sumatran orangutan Rakus pictured two months after he treated his wound.
 
 An orangutan in Indonesia has been observed appearing to
