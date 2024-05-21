@@ -25,7 +25,7 @@ Orangutan seen treating wound with medicinal plant in world first.
 A Sumatran orangutan named Rakus was seen using a plant to treat
 a facial wound possibly sustained during a fight.
 
-![alt text](img-0.png)
+![alt text](img00.png)
 
 Male Sumatran orangutan Rakus pictured two months after he treated his wound.
 
@@ -71,7 +71,7 @@ Rakus, believed to have been born in 1989, is a flanged male,
 with large cheek pads on both sides of the face – secondary male sexual characteristics.
  He is one of the area’s dominant males.
 
-![alt text](img-1.png)
+![alt text](img01.png)
 
 Rakus’s facial wound healed in the weeks after he applied the plant juices.
 
@@ -110,52 +110,52 @@ what could that tell us about how medicine first evolved?”
 ---------------------------------------------------------------------
 ---------------------------------------------------------------------
 
-![alt text](img-2.png)
+![alt text](img02.png)
 
 ---------------------------------------------------------------------
 ---------------------------------------------------------------------
 
-![alt text](img-3.png)
+![alt text](img03.png)
 
 ---------------------------------------------------------------------
 ---------------------------------------------------------------------
 
-![alt text](img-4.png)
+![alt text](img04.png)
 
 ---------------------------------------------------------------------
 ---------------------------------------------------------------------
 
-![alt text](img-5.png)
+![alt text](img05.png)
 
 ---------------------------------------------------------------------
 ---------------------------------------------------------------------
 
-![alt text](img-6.png)
+![alt text](img06.png)
 
 ---------------------------------------------------------------------
 ---------------------------------------------------------------------
 
-![alt text](img-7.png)
+![alt text](img07.png)
 
 ---------------------------------------------------------------------
 ---------------------------------------------------------------------
 
-![alt text](img-8.png)
+![alt text](img08.png)
 
 ---------------------------------------------------------------------
 ---------------------------------------------------------------------
 
-![alt text](img-9.png)
+![alt text](img09.png)
 
 ---------------------------------------------------------------------
 ---------------------------------------------------------------------
 
-![alt text](img-10.png)
+![alt text](img10.png)
 
 ---------------------------------------------------------------------
 ---------------------------------------------------------------------
 
-![alt text](img-11.png)
+![alt text](img11.png)
 
 ---------------------------------------------------------------------
 ---------------------------------------------------------------------
