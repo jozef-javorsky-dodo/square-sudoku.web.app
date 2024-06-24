@@ -1,7 +1,5 @@
 # [https://square-sudoku.web.app/](https://square-sudoku.web.app/)
 
----------------------------------------------------------------------
-
 ## [https://square-sudoku.firebaseapp.com/](https://square-sudoku.firebaseapp.com/)
 
 ---------------------------------------------------------------------
@@ -1338,3 +1336,5 @@ what could that tell us about how medicine first evolved?”
 ---------------------------------------------------------------------
 
 ![alt text](imgs/img309.png)
+
+---------------------------------------------------------------------
